@@ -1,0 +1,5 @@
+# Get any path variables etc. defined as env variables
+source .env
+
+# load python environment (once created)
+source .venv/bin/activate
